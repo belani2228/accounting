@@ -50,6 +50,12 @@ def get_data():
 					"doctype": "Sales Invoice",
 					"is_query_report": True
 				},
+				{
+					"type": "report",
+					"name": "List Account",
+					"doctype": "Jejak Petualang",
+					"is_query_report": True
+				},
 			]
 
 		}

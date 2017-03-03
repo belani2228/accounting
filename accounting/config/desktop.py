@@ -7,7 +7,7 @@ def get_data():
 		{
 			"module_name": "Accounting",
 			"color": "#E23E5E",
-			"icon": "octicon octicon-file",
+			"icon": "octicon octicon-diff",
 			"type": "module",
 			"label": _("Accounting")
 		}
